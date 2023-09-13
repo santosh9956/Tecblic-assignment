@@ -1,3 +1,8 @@
+Here is the output of Screenshot of this project - 
+<img width="1676" alt="Screenshot 2023-09-13 at 1 48 45 PM" src="https://github.com/santosh9956/Tecblic-assignment/assets/76210120/eabcf42c-e227-48f9-9a87-2d9c083b11f6">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
